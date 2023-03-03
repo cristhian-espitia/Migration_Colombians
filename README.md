@@ -22,3 +22,12 @@ the final table is the following:
 [![tabla.png](https://i.postimg.cc/6qgfbN5p/tabla.png)](https://postimg.cc/gLyhrQZC)
 
 The downloadable data can be obtained from the following link: 
+
+Display
+---
+
+Once this table is obtained, we can carry out the following analyses:
+https://public.tableau.com/views/Colombianos_Exterior/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link
+
+---
+[![VISUALIZACION.png](https://i.postimg.cc/43rZGW42/VISUALIZACION.png)](https://postimg.cc/Z9FXFFd6)
