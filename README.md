@@ -11,3 +11,10 @@ The International Organization for Migration (IOM, 2022) is an intergovernmental
 Content
 ---
 1). Colombianos_registrados_en_el_exterior
+
+---
+Model Get Analysis Table
+----
+In order to obtain an analysis that can produce and answer the questions to understand the data, it is necessary to arrive at a clean table, which we can obtain with the file clean_registro.csv (This model can also be imported into a database)
+
+the final table is the following:
